@@ -1,6 +1,8 @@
 
 public class ComponenteConcreto implements IComponente {
 
+	// Classe concreta contendo todos os atributos e metodos base para a criação do produto.
+	
 	protected Produto prod;
 	protected String nomeComp;
 	protected double valorComp;
@@ -16,7 +18,7 @@ public class ComponenteConcreto implements IComponente {
 
 	@Override
 	public String escrita() {
-		return prod.nome + "\n";
+		return prod.nome + "\n" + "Componentes: ";
 	}
 	
 }

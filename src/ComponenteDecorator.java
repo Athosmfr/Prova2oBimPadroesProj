@@ -1,6 +1,8 @@
 
 public abstract class ComponenteDecorator implements IComponente {
 
+	// Classe abstrata que sera herdada pelos decoradores.
+	
 	public IComponente wrap;
 	public String nomeComp;
 	

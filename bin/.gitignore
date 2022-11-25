@@ -1,0 +1,11 @@
+/ComponenteConcreto.class
+/ComponenteDecorator.class
+/CompressorDecorator.class
+/IComponente.class
+/PainelCtrlAnalogDecorator.class
+/PainelCtrlDgtlDecorator.class
+/Produto.class
+/VentiladorDecorator.class
+/main.class
+/sisArrefecimentoDecorator.class
+/undCondensadoraDecorator.class
